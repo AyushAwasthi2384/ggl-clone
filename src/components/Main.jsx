@@ -39,7 +39,7 @@ export default function Main() {
                     <Link to="#" style={{ textDecoration: "none", color: "#fff", fontSize: ".9rem" }}>Images</Link>
                     <PiDotsNineBold className="nav-icons" fontSize={25} style={{ cursor: "pointer" }} />
                     <img className="nav-icons" src={avatar} alt="logo" style={{ height: "35px", width: "35px", cursor: "pointer" }} />
-                </span>
+                </span> 
             </header>
             <div className="main-sec" style={{ height: "90vh", width: "100vw", display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column", gap: "1.7rem" }}>
                 <img src={gclogo} className="" t="logo" style={{ width: "20%" }} />
