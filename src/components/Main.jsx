@@ -27,7 +27,6 @@ export default function Main() {
                 justifyContent: "flex-end",
                 padding: "0 20px",
             }}>
-
                 <span className="" style={{
                     display: "flex",
                     alignItems: "center",
